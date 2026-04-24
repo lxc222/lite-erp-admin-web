@@ -1,0 +1,29 @@
+* {
+    font-family: "Microsoft YaHei", Verdana, sans-serif, SimSun;
+    margin: 0px;
+    padding: 0px;
+    /* color: #666; */
+    font-size: 13px;
+}
+
+.form_select_short {
+    min-width: 160px !important;
+    width: 160px;
+}
+
+.table_column_money {
+    text-align: right;
+    font-weight: bold;
+    font-style: italic;
+    color: #ad0808;
+}
+
+.table_column_italic {
+    font-style: italic;
+    color: #583f3f;
+}
+
+.my_p_divider {
+    border-top: 1px solid #eeeeee;
+    margin: 5px 0px;
+}
